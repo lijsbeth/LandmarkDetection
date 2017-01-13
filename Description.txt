@@ -1,0 +1,2 @@
+WPF application
+Opens directory, finds faces on images, saves images with framed faces
